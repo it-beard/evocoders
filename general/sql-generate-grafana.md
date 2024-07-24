@@ -17,5 +17,5 @@
 2. Находим в ChatGPT в маркетплейсе Grafana Master
 3. Скармливаем ему DDL вашей БД
 4. Садим туда маркетологов (они, как правило, умеют правильно работать с аналитиками и структурами данных, им сложно именно разобраться с инструментарием и SQL как таковым)
-5. По простому запросу "write me sql to count number of sessions that have paid order and are from utm source google" выдает им инструкции вместе с SQL со всеми нужными данными
+5. По простому запросу `write me sql to count number of sessions that have paid order and are from utm source google` выдает им инструкции вместе с SQL со всеми нужными данными
 6. Наблюдаем за этим всем со стороны попивая кофеек
