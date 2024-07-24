@@ -4,3 +4,4 @@
 
 ## Юзкейсы
 - [Настройка фидбека от линтера/билдера](https://github.com/it-beard/evocoders-usecases/blob/main/aider/build_linter_feedback.md)
+- [Создание TTS телеграм-бота](https://github.com/it-beard/evocoders-usecases/blob/main/aider/tg_bot.md)
