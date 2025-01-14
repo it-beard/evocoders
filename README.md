@@ -2,7 +2,7 @@
 Юзкейсы по ИИ-тулзам для программирования от сообщества "[Эволюция Кода](https://itbeard.com/evocoders)"
 
 - Подробнее про сообщество и как в него попасть: https://itbeard.com/evocoders
-- YouTube (демо-материалы и шортсы): https://youtube.com/evocoders
+- YouTube (демо-материалы и шортсы): https://youtube.com/@evocoders
 
 Юзкейсы лежат в [Дискуссиях](https://github.com/it-beard/evocoders/discussions), изучайте на здоровье. Комментарии и обсуждения там же, либо в клубных чатах. 
 
